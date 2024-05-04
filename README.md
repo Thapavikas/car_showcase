@@ -1,3 +1,7 @@
+<img width="946" alt="image" src="https://github.com/Thapavikas/car_showcase/assets/142878082/d8337c2d-4257-4938-bcbb-e2580d1220b2">
+<img width="955" alt="image" src="https://github.com/Thapavikas/car_showcase/assets/142878082/0e60c556-31ca-47b7-8f1f-350627ef11e5">
+<img width="947" alt="image" src="https://github.com/Thapavikas/car_showcase/assets/142878082/4b3f9336-fb93-4903-8a8c-1deca75882f3">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
